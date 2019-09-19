@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/ArtemLyksa/udemy_npm_demo#readme",
   "dependencies": {
-    "mongoose": "^5.7.1",
     "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "jshint": "^2.10.2"
   }
 }
